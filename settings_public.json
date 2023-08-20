@@ -1,0 +1,30 @@
+{
+    "botToken": "",
+
+    "serverId": "",
+
+    "commandPrefix": "!",
+
+    "sheets": {
+        "main": "",
+        "reserve": ""
+    },
+
+    "sleepMessagesChannelId": "",
+
+    "norms": {
+        "main": 0,
+        "reserve": 0
+    },
+
+    "signs": {
+        "userId": "sign"
+    },
+
+    "roleplayCommands": [
+        {
+            "name": "some command",
+            "mask": "{sender} some commanded {comment} {subject}"
+        }
+    ]
+}
